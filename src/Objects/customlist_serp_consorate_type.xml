@@ -1,0 +1,20 @@
+<customlist scriptid="customlist_serp_consorate_type">
+  <description></description>
+  <isinactive>F</isinactive>
+  <isordered>T</isordered>
+  <name>SERP Consolidated Rate Type</name>
+  <customvalues>
+    <customvalue scriptid="val_142781_t2488355_316">
+      <isinactive>F</isinactive>
+      <value>Average</value>
+    </customvalue>
+    <customvalue scriptid="val_142782_t2488355_824">
+      <isinactive>F</isinactive>
+      <value>Current</value>
+    </customvalue>
+    <customvalue scriptid="val_142783_t2488355_734">
+      <isinactive>F</isinactive>
+      <value>Historical</value>
+    </customvalue>
+  </customvalues>
+</customlist>
